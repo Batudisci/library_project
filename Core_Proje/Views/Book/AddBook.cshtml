@@ -1,0 +1,56 @@
+﻿@model EntityLayer.Concrete.AddBook
+
+@{
+    ViewData["Title"] = "Kitap Ekle";
+}
+<h1>Kitap Ekle</h1>
+<form class="form-group" asp-controller="Book" method="post" enctype="multipart/form-data">
+    <label>Kitap Adı</label>
+    <input type="text" name="BookName" id="bookName" class="form-control" />
+    <div id="nameError" style="color: red;"></div>
+    <br />
+    <label>Kitap Yazarı</label>
+    <input type="text" name="BookWriter" id="bookWriter" class="form-control" />
+    <div id="writerError" style="color: red;"></div>
+    <br />
+    <label>Kitap Resmi</label>
+    <input type="file" name="BookImage" id="bookImage" class="form-control" accept=".png,.jpeg,.jpg" />
+    <br />
+    <div id="imageError" style="color: red;"></div>
+    <br />
+    <label>Kitap Açıklaması</label>
+    <textarea rows="5" class="form-control" name="BookDescription"></textarea>
+    <br />
+    <button class="btn btn-primary">Kaydet</button>
+</form>
+<script>
+    var bookName = document.getElementById("bookName");
+    var nameError = document.getElementById("nameError");
+
+    var bookWriter = document.getElementById("bookWriter");
+    var writerError = document.getElementById("writerError");
+
+    var bookImage = document.getElementById("bookImage");
+    var imageError = document.getElementById("imageError");
+
+    function checkEmptyField(inputElement, errorElement, errorMessage) {
+        inputElement.addEventListener("blur", function () {
+            if (inputElement.value.trim() === "") {
+                errorElement.textContent = errorMessage;
+            } else {
+                errorElement.textContent = ""; // Hata mesajını gizle
+            }
+        });
+    }
+
+    checkEmptyField(bookName, nameError, "Kitap adı boş bırakılamaz");
+    checkEmptyField(bookWriter, writerError, "Kitap yazarı boş bırakılamaz");
+
+    bookImage.addEventListener("change", function () {
+        if (bookImage.value === "") {
+            imageError.textContent = "Kitap resmi seçmelisiniz";
+        } else {
+            imageError.textContent = ""; // Hata mesajını gizle
+        }
+    });
+</script>

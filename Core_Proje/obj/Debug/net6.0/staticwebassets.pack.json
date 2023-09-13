@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Core_Proje.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Core_Proje.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\11f8ca45-e237-4db6-95d7-41f842134d0c.jpg",
+      "PackagePath": "staticwebassets\\img\\11f8ca45-e237-4db6-95d7-41f842134d0c.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\2251efd0-6828-40b1-a7ed-141ea63ff81b.jpg",
+      "PackagePath": "staticwebassets\\img\\2251efd0-6828-40b1-a7ed-141ea63ff81b.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\23523f47-2be3-4a8c-a5c4-de7fddb07082.jpg",
+      "PackagePath": "staticwebassets\\img\\23523f47-2be3-4a8c-a5c4-de7fddb07082.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\26f10208-619b-4166-98ff-f25db9f8ad34.jpg",
+      "PackagePath": "staticwebassets\\img\\26f10208-619b-4166-98ff-f25db9f8ad34.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\360b54ef-f112-4a4f-9ede-1ebc54db4af6.jpg",
+      "PackagePath": "staticwebassets\\img\\360b54ef-f112-4a4f-9ede-1ebc54db4af6.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\3b528ac7-9d60-45a2-ad1d-dee407e4a510.jpg",
+      "PackagePath": "staticwebassets\\img\\3b528ac7-9d60-45a2-ad1d-dee407e4a510.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\3ff96854-3d95-49ce-a902-6c5e9e8a1a85.jpg",
+      "PackagePath": "staticwebassets\\img\\3ff96854-3d95-49ce-a902-6c5e9e8a1a85.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\41948a1c-d6b6-4026-90d0-3e97d2f3ce91.jpg",
+      "PackagePath": "staticwebassets\\img\\41948a1c-d6b6-4026-90d0-3e97d2f3ce91.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\5a995a6c-fa7d-4f9d-b2ab-030ec97adc4f.jpg",
+      "PackagePath": "staticwebassets\\img\\5a995a6c-fa7d-4f9d-b2ab-030ec97adc4f.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\5e8f57b8-9a90-4217-b7b1-5aa23544d117.jpeg",
+      "PackagePath": "staticwebassets\\img\\5e8f57b8-9a90-4217-b7b1-5aa23544d117.jpeg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\6cca9a3c-a983-42ca-a772-896e449b373a.jpg",
+      "PackagePath": "staticwebassets\\img\\6cca9a3c-a983-42ca-a772-896e449b373a.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\82b15f0c-fa73-4fc0-b173-69202c923e78.jpg",
+      "PackagePath": "staticwebassets\\img\\82b15f0c-fa73-4fc0-b173-69202c923e78.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\9374316a-840a-495e-8baa-6c6937fbc129.jpg",
+      "PackagePath": "staticwebassets\\img\\9374316a-840a-495e-8baa-6c6937fbc129.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\b51cb99d-9fae-4efa-bae9-d8677ce01a37.jpg",
+      "PackagePath": "staticwebassets\\img\\b51cb99d-9fae-4efa-bae9-d8677ce01a37.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\c1d6695f-e59b-40d2-af97-ffc7af08da23.jpg",
+      "PackagePath": "staticwebassets\\img\\c1d6695f-e59b-40d2-af97-ffc7af08da23.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\cad39d3b-8e15-4769-bcf8-a69a049979aa.jpg",
+      "PackagePath": "staticwebassets\\img\\cad39d3b-8e15-4769-bcf8-a69a049979aa.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\cdbd5a6a-ea5f-4469-a896-e0aa55036412.jpg",
+      "PackagePath": "staticwebassets\\img\\cdbd5a6a-ea5f-4469-a896-e0aa55036412.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\ec69fe47-ea7b-4df0-9541-c24cfd30202d.jpg",
+      "PackagePath": "staticwebassets\\img\\ec69fe47-ea7b-4df0-9541-c24cfd30202d.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\f2dac0ad-8dc8-4307-a6c9-91ce049402ed.jpeg",
+      "PackagePath": "staticwebassets\\img\\f2dac0ad-8dc8-4307-a6c9-91ce049402ed.jpeg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\img\\fe2a0919-b610-4157-a080-6a992b5bf666.jpg",
+      "PackagePath": "staticwebassets\\img\\fe2a0919-b610-4157-a080-6a992b5bf666.jpg"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Kodlar\\C#\\SanctionScanner\\Core_Proje\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Core_Proje.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Core_Proje.props",
+      "PackagePath": "build\\Core_Proje.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Core_Proje.props",
+      "PackagePath": "buildMultiTargeting\\Core_Proje.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Core_Proje.props",
+      "PackagePath": "buildTransitive\\Core_Proje.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

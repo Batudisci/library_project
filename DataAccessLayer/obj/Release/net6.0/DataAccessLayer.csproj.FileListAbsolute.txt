@@ -1,0 +1,17 @@
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\bin\Release\net6.0\DataAccessLayer.deps.json
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\bin\Release\net6.0\DataAccessLayer.runtimeconfig.json
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\bin\Release\net6.0\DataAccessLayer.dll
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\bin\Release\net6.0\DataAccessLayer.pdb
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\bin\Release\net6.0\EntityLayer.dll
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\bin\Release\net6.0\EntityLayer.pdb
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.dll
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\obj\Release\net6.0\refint\DataAccessLayer.dll
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.pdb
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\Kodlar\C#\SanctionScanner\DataAccessLayer\obj\Release\net6.0\ref\DataAccessLayer.dll

@@ -1,0 +1,133 @@
+﻿@using EntityLayer.Concrete
+@model List<Book>
+
+@{
+    ViewData["Title"] = "Kitaplar Sayfası";
+}
+<body>
+    <div class="container">
+        <div class="col">
+            <h1><a href="/Book/AddBook" class="btn btn-warning kitap-ekle">Kitap Ekle</a></h1>
+            <h1 class="my-4">Kitaplar Listesi</h1>
+        </div>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Kitap Resmi</th>               
+                    <th scope="col">Kitap Adı</th>
+                    <th scope="col">Kitap Yazarı</th>
+                    <th scope="col">Kitap Durumu</th>                 
+                    <th scope="col">Kitap Müsaitliği</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            <img src="~/img/@item.BookImage" height="200" width="200" />
+                        </td>                      
+                        <td>@item.BookName</td>
+                        <td>@item.BookWriter</td>
+                        <td>@if(item.IsInLibrary == true)
+                            {
+                                <p> Kitap kütüphanede mevcuttur.</p>
+                            }
+                            else
+                            {
+                                <p>Kitap ödünç alınmıştır.</p>
+                            }
+                        </td>
+                      <td>
+                            @if (!@item.IsInLibrary)
+                            {                         
+                                    <div class="modal-dialog">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <p class="modal-title">Kitabı Ödünç Alan kişinin bilgileri </p>
+                                            </div>
+                                            <form method="post" action="/Book/EditBook">
+                                                <div class="modal-body">
+                                                <label>Adı ve Soyadı : @item.Borrower</label>                                               
+                                                    <br />                                                  
+                                               <label>Kitap Teslim Tarihi : @Convert.ToDateTime(item.DeadLine).ToString("M")</label>                                             
+                                                    <br />
+                                                </div>
+                                            </form>
+                                        </div>
+
+                                    </div>
+                            }
+                            else
+                            {
+                                <button class="btn btn-primary" data-toggle="modal" data-target="#Modal-@item.ID">
+                                    Ödünç Al
+                                </button>
+
+                                <div class="modal" id="Modal-@item.ID">
+                                    <div class="modal-dialog">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <p class="modal-title">Kitabı Ödünç Almak İçin Gerekli Bilgileri Giriniz!</p>
+                                            </div>
+                                            <form method="post" action="/Book/EditBook">
+                                                <div class="modal-body">
+                                                    <label>Adınız ve soyadınızı giriniz...</label>
+                                                    <br />
+                                                    <input value="@item.ID" type="text" name="ID" style="display:none;" readonly />
+                                                    <input type="text" name="Borrower" id="userName" class="form-control" />
+                                                    <div id="nameError" style="color: red;"></div>
+
+                                                    <label>Kitap teslim tarihini giriniz...</label>
+                                                    <br />
+                                                    <input type="date" name="DeadLine" id="tarih" class="form-control" />
+                                                    <div id="tarihError" style="color: red;"></div>
+                                                    <br />                                                 
+                                                    <br />                                                  
+                                                    <button class="btn btn-success">Kaydet</button>
+                                                </div>
+                                            </form>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            }
+                           
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        
+    </div>
+</body>
+<script>
+    var userName = document.getElementById("userName");
+    var nameError = document.getElementById("nameError");
+
+    var tarihInput = document.getElementById("tarih");
+    var tarihError = document.getElementById("tarihError");
+
+    var closeButton = document.getElementById("close");
+
+    userName.addEventListener("blur", function () {
+    if (userName.value.trim() === "") { // trim() ile başındaki ve sonundaki boşlukları kaldır
+        nameError.textContent = "Kitap adı boş bırakılamaz";
+    } else {
+        nameError.textContent = ""; // Hata mesajını gizle
+    }
+
+});
+
+    tarihInput.addEventListener("change", function () {
+        var girilenTarih = new Date(tarihInput.value);
+        var suankiTarih = new Date();
+
+        if (girilenTarih < suankiTarih) {
+            tarihError.textContent = "Geçmiş bir tarih girmemelisiniz";
+            tarihInput.value = ""; // Geçersiz tarihi temizle
+        } else {
+            tarihError.textContent = ""; // Hata mesajını gizle
+        }
+    });
+</script>
